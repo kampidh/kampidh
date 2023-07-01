@@ -1,4 +1,12 @@
-### Hi there 👋
+## Greetings, Kampidh here!
+_Freelance kemono artist and photographer. Sometimes I also code and do electronic stuffs._
+
+### Short intro:
+- I'm just (re)starting to learn code.
+- Currently bashing keyboard in Qt (C++), sometimes in Python.
+- Occasionally contributing to Krita Project ([KDE invent profile](https://invent.kde.org/rasyuqaa))
+
+🐾
 
 <!--
 **kampidh/kampidh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
